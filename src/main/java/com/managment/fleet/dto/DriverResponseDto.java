@@ -1,4 +1,4 @@
-package com.managment.fleet.dto.java;
+package com.managment.fleet.dto;
 
 
 import com.managment.fleet.domain.Driver;

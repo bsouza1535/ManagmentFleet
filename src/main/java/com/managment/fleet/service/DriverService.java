@@ -1,8 +1,8 @@
 package com.managment.fleet.service;
 
 import com.managment.fleet.domain.Driver;
-import com.managment.fleet.dto.java.DriverRequestDto;
-import com.managment.fleet.dto.java.DriverResponseDto;
+import com.managment.fleet.dto.DriverRequestDto;
+import com.managment.fleet.dto.DriverResponseDto;
 import com.managment.fleet.exception.BusinessException;
 import com.managment.fleet.repository.DriverRepository;
 import com.managment.fleet.repository.DriverSpecification;

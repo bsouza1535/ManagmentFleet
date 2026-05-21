@@ -14,4 +14,6 @@ public interface DriverRepository extends JpaRepository<Driver, String>, JpaSpec
     Optional<Driver> findByCnh(String cnh);
 
     Page<Driver> findAll(Specification<Driver> spec, Pageable pageable);
+
+    Optional<Driver> findByNameIgnoreCase(String driverName);
 }
