@@ -1,7 +1,7 @@
 package com.managment.fleet.controller;
 
-import com.managment.fleet.dto.java.DriverRequestDto;
-import com.managment.fleet.dto.java.DriverResponseDto;
+import com.managment.fleet.dto.DriverRequestDto;
+import com.managment.fleet.dto.DriverResponseDto;
 import com.managment.fleet.service.DriverService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
