@@ -85,14 +85,3 @@ Consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para orientações detalha
 Este projeto está sob a licença MIT.
 
 ---
-
-### Dicas para tornar o projeto mais chamativo no GitHub
-
-- Adicione badges de build, cobertura de testes e qualidade de código (ex: GitHub Actions, Codecov, SonarCloud)
-- Inclua screenshots ou GIFs mostrando a interface (caso tenha front-end ou use Swagger)
-- Crie um logo simples para o projeto e adicione ao README
-- Escreva um arquivo `CONTRIBUTING.md` com orientações para novos contribuidores
-- Adicione exemplos de requisições/respostas da API no README
-- Configure GitHub Actions para build/teste automático
-- Ative o GitHub Pages para documentação
-- Use issues e projetos do GitHub para organizar o roadmap
