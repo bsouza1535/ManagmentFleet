@@ -19,10 +19,6 @@ Sistema de Gestão de Frotas
 
 O **Management Fleet** é um sistema completo para gestão de frotas, permitindo o cadastro, consulta e gerenciamento de veículos, condutores, manutenções e abastecimentos. O projeto utiliza Spring Boot, Spring Data JPA, PostgreSQL, autenticação JWT e Flyway para versionamento do banco de dados.
 
-## Demonstração
-
-![Tela de Login do Sistema](README-assets/swagger-login.png)
-
 ## Exemplo de Requisição/Resposta
 
 ### Criar Veículo
